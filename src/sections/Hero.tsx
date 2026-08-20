@@ -8,7 +8,7 @@ export function Hero() {
           <div className="flex flex-col gap-8 md:flex-1">
             <div className="flex items-center gap-6">
               <img
-                src="/avatar.png"
+                src="avatar.png"
                 alt="Qingyu, Zheng"
                 className="h-20 w-20 shrink-0 rounded-full object-cover ring-1 ring-border md:h-28 md:w-28"
               />
